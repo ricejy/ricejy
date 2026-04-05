@@ -9,7 +9,7 @@
 ## what i actually do
 
 AI Engineer with a mobile past — I spent years shipping iOS and React TypeScript
-features inside a bank before pivoting fully into LLM/AI engineering.
+features and building AI features in an innovation team inside a bank before pivoting fully into LLM/AI engineering.
 
 Turns out building production mobile apps and building production AI systems
 have more in common than you'd think. Both will break in ways you didn't expect.
