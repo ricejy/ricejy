@@ -1,3 +1,5 @@
+<img width="1773" height="886" alt="github-banner" src="https://github.com/user-attachments/assets/8273631c-22c1-4735-9837-d07bd07a043f" />
+
 # hey, i'm rice aka jun yang 👋
 
 > *Started in mobile. Ended up talking to LLMs. No regrets.*
