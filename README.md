@@ -28,8 +28,8 @@ jun_yang = {
 ## what i build now
 
 🏦 **RAG pipelines for banking** — because customers deserve better than a 47-page PDF  
-🤖 **LangGraph agents** — guardrails, intent routing, tool calling, the works  
-📱 **On-device LLMs (iOS)** — Apple Foundation Models + SQLite vector search, zero API calls  
+🤖 **AI Agents** — guardrails, intent routing, tool calling, ReAct, the works  
+📱 **On-device LLMs and RAG** — For iOS and Android mobile devices
 🔧 **Fine-tuned and quantized small models** — QLoRA on Qwen2.5, Qwen3.5, etc, all running on a M3 Macbook with an 18GB Memory. Yes, really.
 
 ---
